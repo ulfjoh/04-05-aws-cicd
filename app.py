@@ -23,7 +23,7 @@ async def index():
     </head>
     <body>
         <font size="7">
-            <b>Welcome to the Location Service API!</b>
+            <b>Welcome to the Location Service API - !!!! UPDATED!!!!</b>
         </font>
         <font size="5">
             <p>This API provides a backend service for a mobile application.</p></font>
